@@ -1,1 +1,0 @@
-# UTS.Prak.Sismik.Skema.Robot.Kontrol.Ultrasonik
